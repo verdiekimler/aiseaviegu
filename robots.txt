@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://voazengahz.417.cz/sitemap.xml
